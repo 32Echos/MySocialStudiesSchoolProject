@@ -1,0 +1,2 @@
+# MySocialStudiesSchoolProject
+Created with CodeSandbox
